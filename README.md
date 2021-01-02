@@ -12,21 +12,6 @@ People could not send this link because the companies didn't like it and reinter
 TinyURL was able to translate the URL to an 8-digit base64 code ( y5zr43pm ) for me just now.
 Looking up y5, zr, 43, and pm on a word table (SOUTH Matrix) translates this to "geek pass hinky unbelievable".
 
-## Advanced social usages ##
-However, every word in the table starts with a different four letters - ONLY those count.
-So you could write "geeky passion hinkers unbelief" in a posting, and the reader would still look up the first four letters only.
-
-Will social media ban posts of those four words?  It's conceivable.
-But then you can say "Our team is up by 3 so far cups parole federal unauthorized".
-In that case the last 4 words are down 3 from the real lookup, so if the reader goes up 3 he gets them.
-
-The result from the 4 words is NOT actually a link - you'd have to assume it's on TinyURL because they're the first best known shortener.
-Maybe you could put the word "tiny" somewhere in your post to make it ultra clear, or "bit" if it's bit.ly.
-The goal is to make it possible to share information in a way that is complex, obscure, making sense to the human reader.
-The social media thinks a bad post is a billion times more bad than a good post is good, and they want a machine
-that can read a billion posts they don't think are worth reading.  Can they do that if people share links like this?
-If someone posts four words that sound odd on social media - maybe he is giving you a way to find a source.  Who knows?
-
 ## Matrix tables ##
 In the repository, the Matrix files are ways to translate base64 to other terms.  Each matrix is named after its encoding for the two letters "St".
 
@@ -59,6 +44,21 @@ COORDINATION (command and control, communications), and SECURITY (privacy, steal
 that information will not be used against one).  Given this understanding, the relationship and boundaries of the hexagrams became much clearer, at least in a
 very "Yang"-heavy interpretation.  Perhaps these ideas would help to improve accuracy of recovery of information from this system - it is still experimental and
 I can't say how well the information is preserved.
+
+## Advanced social usages ##
+In SOUTH Matrix, every word in the table starts with a different four letters - ONLY those count.
+So you could write "geeky passion hinkers unbelief" in a posting, and the reader would still look up the first four letters only.
+
+Will social media ban posts of those four words?  It's conceivable.
+But then you can say "Our team is up by 3 so far cups parole federal unauthorized".
+In that case the last 4 words are down 3 from the real lookup, so if the reader goes up 3 he gets them.
+
+The result from the 4 words is NOT actually a link - you'd have to assume it's on TinyURL because they're the first best known shortener.
+Maybe you could put the word "tiny" somewhere in your post to make it ultra clear, or "bit" if it's bit.ly.
+The goal is to make it possible to share information in a way that is complex, obscure, making sense to the human reader.
+The social media thinks a bad post is a billion times more bad than a good post is good, and they want a machine
+that can read a billion posts they don't think are worth reading.  Can they do that if people share links like this?
+If someone posts four words that sound odd on social media - maybe he is giving you a way to find a source.  Who knows?
 
 ## Alternate information sources ##
 Stegacite is meant to be a broad idea for a language that evolves and changes as need be to help people stay out of trouble.
