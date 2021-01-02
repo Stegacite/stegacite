@@ -15,7 +15,7 @@ Looking up y5, zr, 43, and pm on a word table (SOUTH Matrix) translates this to 
 ## Matrix tables ##
 In the repository, the Matrix files are ways to translate base64 to other terms.  Each matrix is named after its encoding for the two letters "St".
 
-### SOUTH Matrix ###
+### [SOUTH Matrix](https://github.com/Stegacite/stegacite/blob/main/SOUTH%20Matrix.pdf) ###
 The SOUTH Matrix used above is definitely not MEANT to be unique.  I've put it on the table in a spiral to avoid "lock-in"...
 yes, there is a simpler way to arrange it with an uninspired alphabetical order - DO that if you want, or something else.
 
@@ -26,7 +26,7 @@ The list is heavy on the most common words because the first 14000 words in http
 for TV scripts were used.  These were heavily revised, with most proper names removed and only one word with a given first 4 letters
 can be used in the table.
 
-### FEARING SYMPATHY Matrix ###
+### [FEARING SYMPATHY Matrix](https://github.com/Stegacite/stegacite/blob/main/FEARING%20SYMPATHY%20Matrix.pdf) ###
 The FEARING SYMPATHY Matrix is more peculiar.  It produces one word per character.  The matrix is based on the ancient Chinese Yi Jing system.
 The Yi Jing is interesting in its own right, an "invention machine" that seeks to permit analysis of all possibilities from any given situation.
 In the FEARING SYMPATHY matrix, each term is not a word to be used directly, but an idea to be referenced by a sentence, header, title, etc.
@@ -43,7 +43,7 @@ from bottom to top, represent MASS (concentration of forces), bold ACTION, PRESE
 COORDINATION (command and control, communications), and SECURITY (privacy, stealth, withholding information from the enemy, perhaps with a touch of confidence
 that information will not be used against one).  Given this understanding, the relationship and boundaries of the hexagrams became much clearer, at least in a
 very "Yang"-heavy interpretation.  Perhaps these ideas would help to improve accuracy of recovery of information from this system - it is still experimental and
-I can't say how well the information is preserved.
+I can't say how well the information is preserved.  I have a little rat's nest of notes in a [LibreOffice spreadsheet](https://github.com/Stegacite/stegacite/blob/main/FEARING%20SYMPATHY%20Matrix%20with%20lengthy%20notes%20on%20derivation.ods) (it also works in Excel with some griping)
 
 ## Advanced social usages ##
 In SOUTH Matrix, every word in the table starts with a different four letters - ONLY those count.
