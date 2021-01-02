@@ -10,7 +10,7 @@ Think of it as a CAPTCHA for social media moderators ... a means of "complying" 
 For example, the New York Post recently published an article that was banned from Facebook and Twitter.
 People could not send this link because the companies didn't like it and reinterpreted their policies.
 TinyURL was able to translate the URL to an 8-digit base64 code ( y5zr43pm ) for me just now.
-Looking up y5, zr, 43, and pm on a word table (SOUTH Matrix) translates this to "geek pass hinky unbelievable".
+Looking up y5, zr, 43, and pm on a word table (SOUTH Matrix) translates this to _geek pass hinky unbelievable_.
 
 ## Matrix tables ##
 In the repository, the Matrix files are ways to translate base64 to other terms.  Each matrix is named after its encoding for the two letters "St".
@@ -34,8 +34,8 @@ This means that a web link can be transmitted in a form that is independent of t
 
 For example, the original New York Post tinyurl link is y5zr43pm - which can be looked up on the table as Crisis, Honesty, Politeness, Alienation,
 The underground, Discretion, Punishment, The problem solver.  The link might be coded (sorry for the lack of inspired prose) as:
-"Global warming is a problem.  Coal miners are good upstanding people.  They should be addressed with respect.  Some people just get disgusted with the climate situation and don't care about anything.  There is a network of opposition where people trade crazy ideas.  The government doesn't know how to handle them and is holding off action.  But there are things they could be charged with.  But there are methods for carbon sequestration that will set everything straight."
-It may be a bit of a loopy comment ... but what machine will recognize it as a WEB LINK? 
+_Global warming is a problem.  Coal miners are good upstanding people.  They should be addressed with respect.  Some people just get disgusted with the climate situation and don't care about anything.  There is a network of opposition where people trade crazy ideas.  The government doesn't know how to handle them and is holding off action.  But there are things they could be charged with.  But there are methods for carbon sequestration that will set everything straight._
+Sure, it's a bit of a loopy comment ... but what machine will recognize it as a WEB LINK? 
 
 To produce the FEARING SYMPATHY Matrix, I went over the standard hexagrams to make some more mundanely comprehensible.  I was only able to do that
 after first realizing that each of the six lines of a Yi Jing hexagram represents a desired condition in military science.  I realized that the lines,
@@ -47,7 +47,7 @@ I can't say how well the information is preserved.  I have a little rat's nest o
 
 ## Advanced social usages ##
 In SOUTH Matrix, every word in the table starts with a different four letters - ONLY those count.
-So you could write "geeky passion hinkers unbelief" in a posting, and the reader would still look up the first four letters only.
+So you could write _geeky passion hinkers unbelief_ in a posting, and the reader would still look up the first four letters only.
 
 Will social media ban posts of those four words?  It's conceivable.
 But then you can say "Our team is up by 3 so far cups parole federal unauthorized".
