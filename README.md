@@ -1,9 +1,7 @@
-### Hi there 👋
-
 <!--
 **Stegacite/stegacite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-== Overview ==
+## Overview ##
 "Stegacite" is a means to translate base64, such as would be used with a URL shortener, to English words.  
 It is NOT a program and it is NOT a method of encryption or sending secret codes.  
 Think of it as a CAPTCHA for social media moderators ... a means of "complying" with social media Terms and Conditions.
