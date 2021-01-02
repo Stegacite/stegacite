@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Stegacite/stegacite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Stegacite/stegacite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 == Overview ==
 "Stegacite" is a means to translate base64, such as would be used with a URL shortener, to English words.  
