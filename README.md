@@ -6,13 +6,13 @@
 It is NOT a program and it is NOT a method of encryption or sending secret codes.  
 Think of it as a CAPTCHA for social media moderators ... a means of "complying" with social media Terms and Conditions.
 
-== Basic usage ==
+## Basic usage ##
 For example, the New York Post recently published an article that was banned from Facebook and Twitter.
 People could not send this link because the companies didn't like it and reinterpreted their policies.
 TinyURL was able to translate the URL to an 8-digit base64 code ( y5zr43pm ) for me just now.
 Looking up y5, zr, 43, and pm on a word table (SOUTH Matrix) translates this to "geek pass hinky unbelievable".
 
-== Advanced social usages ==
+## Advanced social usages ##
 However, every word in the table starts with a different four letters - ONLY those count.
 So you could write "geeky passion hinkers unbelief" in a posting, and the reader would still look up the first four letters only.
 
@@ -27,10 +27,10 @@ The social media thinks a bad post is a billion times more bad than a good post 
 that can read a billion posts they don't think are worth reading.  Can they do that if people share links like this?
 If someone posts four words that sound odd on social media - maybe he is giving you a way to find a source.  Who knows?
 
-== Matrix tables ==
+## Matrix tables ##
 In the repository, the Matrix files are ways to translate base64 to other terms.  Each matrix is named after its encoding for the two letters "St".
 
-=== SOUTH Matrix ===
+### SOUTH Matrix ###
 The SOUTH Matrix used above is definitely not MEANT to be unique.  I've put it on the table in a spiral to avoid "lock-in"...
 yes, there is a simpler way to arrange it with an uninspired alphabetical order - DO that if you want, or something else.
 
@@ -41,7 +41,7 @@ The list is heavy on the most common words because the first 14000 words in http
 for TV scripts were used.  These were heavily revised, with most proper names removed and only one word with a given first 4 letters
 can be used in the table.
 
-=== FEARING SYMPATHY Matrix ===
+### FEARING SYMPATHY Matrix ###
 The FEARING SYMPATHY Matrix is more peculiar.  It produces one word per character.  The matrix is based on the ancient Chinese Yi Jing system.
 The Yi Jing is interesting in its own right, an "invention machine" that seeks to permit analysis of all possibilities from any given situation.
 In the FEARING SYMPATHY matrix, each term is not a word to be used directly, but an idea to be referenced by a sentence, header, title, etc.
@@ -60,7 +60,7 @@ that information will not be used against one).  Given this understanding, the r
 very "Yang"-heavy interpretation.  Perhaps these ideas would help to improve accuracy of recovery of information from this system - it is still experimental and
 I can't say how well the information is preserved.
 
-== Alternate information sources ==
+## Alternate information sources ##
 Stegacite is meant to be a broad idea for a language that evolves and changes as need be to help people stay out of trouble.
 The scheme can be modified to send whole bytes by capitalizing or otherwise marking the first 4 letters to share 4 extra bits
 (two letters of base64 = 12 bits, two bytes = 16 bits).  This is less subtle but you can send an IP4 address as 2 words.
@@ -70,8 +70,8 @@ Stegacite can also be used to transmit nucleotide sequences - for each nucleotid
 be turned into a single base64 letter and back again, and the table used normally.  This is perhaps best represented as a matrix file; that file can also
 be used to translate web addresses to nucleotide sequence (Todo - this is very simple)
 
-== Implementations ==
-The gold standard method is printing out the matrix PDF file and using it by hand.  This can be done easily, and it can be done even if (when) the idea
+## Implementations ##
+The gold standard method is printing out the matrix PDF file and using it by hand.  This can be done easily, and it can be done even if the idea
 of a computer capable of running random user-generated software is made illegal.
 
 An easier way to use a table like SOUTH Matrix is to open it in LibreOffice and search for the words you need to find.
