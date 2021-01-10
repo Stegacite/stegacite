@@ -45,6 +45,9 @@ that information will not be used against one).  Given this understanding, the r
 very "Yang"-heavy interpretation.  Perhaps these ideas would help to improve accuracy of recovery of information from this system - it is still experimental and
 I can't say how well the information is preserved.  I have a little rat's nest of notes in a [LibreOffice spreadsheet](https://github.com/Stegacite/stegacite/blob/main/FEARING%20SYMPATHY%20Matrix%20with%20lengthy%20notes%20on%20derivation.ods) (it also works in Excel with some griping)
 
+### [KC3 QB6 Matrix](https://github.com/Stegacite/stegacite/blob/main/KC3%20QF6%20Matrix.pdf) ###
+This matrix can show up to 12 non-repeating charactes as a chess position.  A Wikipedia edit link is given which can be used to quickly make an image out of the position, or a text based description can be used.
+
 ## Advanced social usages ##
 In SOUTH Matrix, every word in the table starts with a different four letters - ONLY those count.
 So you could write _geeky passion hinkers unbelief_ in a posting, and the reader would still look up the first four letters only.
