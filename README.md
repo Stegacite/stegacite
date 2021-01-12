@@ -74,12 +74,12 @@ be turned into a single base64 letter and back again, and the table used normall
 be used to translate web addresses to nucleotide sequence (Todo - this is very simple)
 
 ## Implementations ##
-The gold standard method is printing out the matrix PDF file and using it by hand.  This can be done easily, and it can be done even if the idea
-of a computer capable of running random user-generated software is made illegal.
+The "gold standard method" is printing out the matrix PDF file and using it by hand.  This can be done easily, and it can be done even if the company that owns
+your computer, which in exchange for your cash offers you a license to use it under certain conditions, decides to stop accepting software unless they approve it.
 
 An easier way to use a table like SOUTH Matrix is to open it in LibreOffice and search for the words you need to find.
 As I used it the letter on top comes first and the letter on the side second for each pair.
 
 You CAN automate word matrix lookup - even I can write this as a tiny program - but I want it to be extremely clear that this is an IDEA, not a PROGRAM.
-So I am not prioritizing automated tools in this repository at this time.  I *will* happily reference anyone who does code an implementation.
-The CSV version of the SOUTH Matrix is meant to help with this.
+A [demonstration of SOUTH Matrix](https://github.com/Stegacite/stegacite/blob/main/SOUTH%20Matrix%20illustration.html) is provided to make it easier to get a feel
+for how this method works.  (That file is an .html file - you can save it to your desktop and enable Javascript to try it out)
