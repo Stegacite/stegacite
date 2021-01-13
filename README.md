@@ -19,8 +19,9 @@ In the repository, the Matrix files are ways to translate base64 to other terms.
 The SOUTH Matrix used above is definitely not MEANT to be unique.  I've put it on the table in a spiral to avoid "lock-in"...
 yes, there is a simpler way to arrange it with an uninspired alphabetical order - DO that if you want, or something else.
 
-The word list in SOUTH Matrix was casually censored but not everything that might stand out to social media has been found.
-Remember you can change any part of the word after the first 4 letters!  But more revision is needed.  There are MANY unused words.
+The word list in SOUTH Matrix was casually censored but not everything that might stand out to social media has been found.  
+More revision is planned - ideally, the words should not stand out for scrutiny at an individual level or as randomly permuted,
+but that is a complex manual process that can only go so far.  But remember you can change each word anywhere after the first 4 letters!
 
 The list is heavy on the most common words because the first 14000 words in https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists
 for TV scripts were used.  These were heavily revised, with most proper names removed and only one word with a given first 4 letters
