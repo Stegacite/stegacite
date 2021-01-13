@@ -15,7 +15,7 @@ Looking up y5, zr, 43, and pm on a word table (SOUTH Matrix) translates this to 
 ## Matrix tables ##
 In the repository, the Matrix files are ways to translate base64 to other terms.  Each matrix is named after its encoding for the two letters "St".
 
-### [SOUTH Matrix](https://github.com/Stegacite/stegacite/blob/main/SOUTH%20Matrix.pdf) ###
+### [SOUTH Matrix](https://github.com/Stegacite/stegacite/blob/main/SOUTH%20Matrix%20v0-2.pdf) ###
 The SOUTH Matrix used above is definitely not MEANT to be unique.  I've put it on the table in a spiral to avoid "lock-in"...
 yes, there is a simpler way to arrange it with an uninspired alphabetical order - DO that if you want, or something else.
 
@@ -81,5 +81,5 @@ An easier way to use a table like SOUTH Matrix is to open it in LibreOffice and 
 As I used it the letter on top comes first and the letter on the side second for each pair.
 
 You CAN automate word matrix lookup - even I can write this as a tiny program - but I want it to be extremely clear that this is an IDEA, not a PROGRAM.
-A [demonstration of SOUTH Matrix](https://github.com/Stegacite/stegacite/blob/main/SOUTH%20Matrix%20illustration.html) is provided to make it easier to get a feel
+A [demonstration of SOUTH Matrix](https://github.com/Stegacite/stegacite/blob/main/SOUTH%20Matrix%20illustration%20v0-2.html) is provided to make it easier to get a feel
 for how this method works.  (That file is an .html file - you can save it to your desktop and enable Javascript to try it out)
