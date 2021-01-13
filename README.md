@@ -20,12 +20,6 @@ An easier way to use a table like SOUTH Matrix is to open the spreadsheet file i
 You CAN automate word matrix lookup - even I can write such programs - but these are only conveniences.  Stegacite is an idea,
 not a program.
 
-## Basic usage ##
-For example, the New York Post recently published an article that was banned from Facebook and Twitter.
-People could not send this link because the companies didn't like it and reinterpreted their policies.
-TinyURL was able to translate the URL to an 8-digit base64 code ( y5zr43pm ) for me just now.
-Looking up y5, zr, 43, and pm on a word table (SOUTH Matrix) translates this to _geek pass hinky unbelievable_.
-
 ## Matrix tables ##
 In the repository, the Matrix files are ways to translate base64 to other terms.  Each matrix is named after its encoding for the two letters "St".
 
@@ -44,8 +38,14 @@ However, in SOUTH Matrix, every word in the table starts with a different four l
 So you could write _geeky passion hinkers unbelief_ in a posting, and the reader would still look up the first four letters only.
 
 A [demonstration of SOUTH Matrix](https://github.com/Stegacite/stegacite/blob/main/SOUTH%20Matrix%20illustration%20v0-2.html) is provided 
-to make it easier to get a feel for how this method works.  (That file is an .html file - you can save it to your desktop 
+to make it easier to get a feel for how this method works.  (That file is a standalone .html file - save it to your desktop 
 and enable Javascript to try it out)
+
+#### Sample use ####
+The New York Post recently published an article that was banned from Facebook and Twitter.
+People could not send this link to one another through their social media accounts.
+I used TinyURL to translate the URL to an 8-digit base64 code ( y5zr43pm ).
+Looking up y5, zr, 43, and pm on the SOUTH Matrix word table (PDF or Javascript), this translates this to _geek pass hinky unbelievable_.
 
 #### Use your creativity! ####
 For further obfuscation in a social context, you might say "Our team is up by 3 so far cups parole federal unauthorized".
