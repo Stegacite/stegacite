@@ -24,15 +24,15 @@ not a program.
 In the repository, the Matrix files are ways to translate base64 to other terms.  Each matrix is named after its encoding for the two letters "St".
 
 ### [SOUTH Matrix](https://github.com/Stegacite/stegacite/blob/main/SOUTH%20Matrix%20v0-2.pdf) ###
-In this matrix the most common words because the first 14000 words in https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists
-for TV scripts were worked down into a 4-letter 12-bit lookup table.
-As I used it the letter on top comes first and the letter on the side second for each pair.
+In this matrix the first 14000 words in https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists
+for TV scripts were worked into 4096 words each with unique first four letters.
+As I used it the base64 character on top comes first, then the base64 character on the left side column of the PDF.
 The SOUTH Matrix used above is definitely not MEANT to be unique.  I've put it on the table in a spiral to avoid "lock-in"...
 yes, there is a simpler way to arrange it with an uninspired alphabetical order - DO that if you want, or something else.
 
-The word list in SOUTH Matrix was casually censored but not everything that might stand out to social media has been found.  
+The word list in SOUTH Matrix has been casually censored but not everything that might stand out to social media has been found.  
 More revision is planned - ideally, the words should not stand out for scrutiny at an individual level or as randomly permuted,
-but that is a complex manual process that can only go so far.
+but that is a complex manual process that can only go so far.  If you see something people would object to, that counts as a bug.
 
 However, in SOUTH Matrix, every word in the table starts with a different four letters - ONLY those count.
 So you could write _geeky passion hinkers unbelief_ in a posting, and the reader would still look up the first four letters only.
